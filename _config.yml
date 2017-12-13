@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "A Resume for David"
+description: "A resume based on the template for Jekyll and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -10,6 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
+
 resume_name:                    "biscaboy"
 resume_title:                   "Web Developer"
 resume_contact_email:           "djdlearn@gmail.com"
